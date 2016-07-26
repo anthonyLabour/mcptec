@@ -1,6 +1,14 @@
 <?php plantilla::start(); ?>
 
+<section class="content">
+
+  aqui en el centro
+
+</section>
+
+
 </div>
+
 <!-- /.content-wrapper -->
 
 <!-- Main Footer -->
